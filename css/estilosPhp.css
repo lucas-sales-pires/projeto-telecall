@@ -1,0 +1,101 @@
+.formularioMaster {
+    display: grid;
+}
+
+.formularioMaster label {
+    font-weight: bold;
+}
+
+.formularioMaster input[type="text"] {
+    width: 200px;
+    padding: 5px;
+}
+
+.formularioMaster input[type="button"],
+.formularioMaster input[type="submit"] {
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.formularioMaster input[type="button"]:hover,
+.formularioMaster input[type="submit"]:hover {
+    background-color: #286090;
+}
+
+.table-container {
+    margin-top: 20px;
+}
+
+.table-container table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-container table,
+th,
+td {
+    border: 1px solid #ddd;
+}
+
+.table-container th,
+.table-container td {
+    padding: 10px;
+    text-align: left;
+}
+
+.table-container th {
+    background-color: rgb(49, 18, 186);
+    color: white;
+}
+
+.table-container tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.navbar {
+    position: relative;
+}
+
+
+
+
+.container {
+    margin-top: 50px;
+    color: black;
+}
+
+.alert {
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.alert h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.alert p {
+    font-size: 16px;
+}
+
+.btn-primary {
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.btn-primary:hover {
+    background-color: #286090;
+    border-color: #204d74;
+}
+.btn-secundary a {
+    color: black;
+}
+.btn-secundary:hover{
+    background-color: #3cb537;
+    border-color: #204d74;
+}
+.pesquisa form{
+    display: grid;
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ceolucas/projetofaculdade",
+    "description": "projeto telecall",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "sistema\\": "sistema/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucas sales",
+            "email": "lucas2013sales@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "dompdf/dompdf": "dev-master",
+        "phpmailer/phpmailer": "*"
+    }
+}
