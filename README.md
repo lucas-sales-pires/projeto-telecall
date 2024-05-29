@@ -1,25 +1,39 @@
-# Meus Projetos Pessoais
+# Projeto Telecall 
 
-Este repositório contém alguns dos meus projetos pessoais, variando de jogos a projetos acadêmicos e muito mais.
+## Descrição
 
-## Projetos
+Projeto desenvolvido como projeto fullstack para a disciplina de Desenvolvimento de Software para Web da Faculdade Unisuam.
 
-- **joguinhos**: Neste diretório, você encontrará alguns jogos simples que desenvolvi para praticar minhas habilidades de programação.
+## Tecnologias
 
-- **lojaSuplementos**: Aqui está um projeto relacionado a uma loja de suplementos que criei para aplicar conceitos de desenvolvimento web.
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
 
-- **projeto-faculdade5.0**: Este diretório inclui projetos acadêmicos e trabalhos relacionados à minha jornada acadêmica.
+## Proposta 
 
-- **quiz**: Um projeto de quiz que desenvolvi para testar meus conhecimentos em diferentes tópicos.
+Este foi meu primeiro contato com desenvolvimento fullstack e com a linguagem PHP, o projeto consiste em fazer um crud completo, com algumas opções que diferem com o tipo de usuário, comum ou administrador.
 
+## Tempo de desenvolvimento
 
-## Contribuições
+O projeto foi desenvolvido em 6 meses.
 
-Se você quiser contribuir ou tiver sugestões para qualquer um dos projetos, fique à vontade para abrir issues ou pull requests. Sua colaboração é bem-vinda!
+## Funcionalidades
 
-## Contato
+- Cadastro de usuário
+- Delete de usuário
+- Update de usuário
+- Listagem de usuários
+- Login
+- Logout
+- Registro de Logs 
+- Restaurar  banco de dados
+- O usuário comum pode alterar sua senha
+- O usuário comum pode alterar seu nome
+- O usuário comum pode alterar sua foto de perfil
+- O usuário comum pode ver seus logs
+- O usuário comum pode ver seus dados
 
-Você pode me encontrar no GitHub ou entrar em contato comigo por e-mail (lucas2013sales@hotmail.com).
-
-Obrigado por conferir meus projetos!
 
